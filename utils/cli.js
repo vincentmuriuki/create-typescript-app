@@ -32,7 +32,7 @@ const commands = {
 };
 
 const helpText = meowHelp({
-	name: `create-typescript-app`,
+	name: `@muriukivin/create-ts-app`,
 	flags,
 	commands
 });

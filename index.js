@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * create-typescript-app
+ * @muriukivin/create-ts-app
  * Creates a typescript app
  *
  * @author Vincent Muriuki <powervel.com>
