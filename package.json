@@ -1,10 +1,10 @@
 {
-	"name": "@muriukivin/create-ts-app",
+	"name": "@muriukivincent/create-ts-app",
 	"description": "Create a typescript app with a powerful template",
 	"version": "0.0.1",
 	"license": "MIT",
 	"bin": {
-		"@muriukivin/create-ts-app": "index.js"
+		"@muriukivincent/create-ts-app": "index.js"
 	},
 	"author": {
 		"name": "Vincent Muriuki",
@@ -12,7 +12,7 @@
 		"url": "https://powervel.com"
 	},
 	"keywords": [
-		"@muriukivin/create-ts-app",
+		"@muriukivincent/create-ts-app",
 		"Vincent Muriuki"
 	],
 	"files": [
