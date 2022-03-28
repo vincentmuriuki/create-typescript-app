@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/vincentmuriuki/create-typescript-app/compare/v1.0.1...v1.0.2) (2022-03-28)
+
+
+### Bug Fixes
+
+* **access:** make app access to be public ([47e610d](https://github.com/vincentmuriuki/create-typescript-app/commit/47e610d44163222f1101ff6eb1e991fb338f6c3b))
+
 ## [1.0.1](https://github.com/vincentmuriuki/create-typescript-app/compare/v1.0.0...v1.0.1) (2022-03-28)
 
 
