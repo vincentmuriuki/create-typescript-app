@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/vincentmuriuki/create-typescript-app/compare/v1.0.0...v1.0.1) (2022-03-28)
+
+
+### Bug Fixes
+
+* **rename:** rename app name ([bef79a7](https://github.com/vincentmuriuki/create-typescript-app/commit/bef79a799ac892ce146f0eb402e3a2c44d7699ed))
+* **rename:** rename app name to correct value ([4f0b8c5](https://github.com/vincentmuriuki/create-typescript-app/commit/4f0b8c5d571781f3aa0a2f758e2d14fdf484f27f))
+
 # 1.0.0 (2022-03-28)
 
 
