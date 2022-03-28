@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/vincentmuriuki/create-typescript-app/compare/v1.0.2...v1.1.0) (2022-03-28)
+
+
+### Features
+
+* **readme:** dd content to readme and add licence ([5e9404e](https://github.com/vincentmuriuki/create-typescript-app/commit/5e9404e6380cddeedad458e960ada10106c64cea))
+
 ## [1.0.2](https://github.com/vincentmuriuki/create-typescript-app/compare/v1.0.1...v1.0.2) (2022-03-28)
 
 
