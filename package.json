@@ -1,6 +1,6 @@
 {
 	"name": "create-typescript-app",
-	"description": "Creates a typescript app with a powerful template",
+	"description": "Create a typescript app with a powerful template",
 	"version": "0.0.1",
 	"license": "MIT",
 	"bin": {
@@ -9,7 +9,7 @@
 	"author": {
 		"name": "Vincent Muriuki",
 		"email": "vincentmuriuki42@gmail.com",
-		"url": "http://powervel.com"
+		"url": "https://powervel.com"
 	},
 	"keywords": [
 		"create-typescript-app",
@@ -20,7 +20,8 @@
 		"utils"
 	],
 	"scripts": {
-		"format": "prettier --write \"./**/*.{js,json}\""
+		"format": "prettier --write \"./**/*.{js,json}\"",
+		"prepare": "husky install"
 	},
 	"dependencies": {
 		"chalk": "^4.1.2",
@@ -35,6 +36,9 @@
 		"simple-git": "^3.4.0"
 	},
 	"devDependencies": {
+		"@commitlint/cli": "^16.2.3",
+		"@commitlint/config-conventional": "^16.2.1",
+		"husky": "^7.0.4",
 		"prettier": "^2.6.1"
 	}
 }
