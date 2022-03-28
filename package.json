@@ -1,0 +1,40 @@
+{
+	"name": "create-typescript-app",
+	"description": "Creates a typescript app with a powerful template",
+	"version": "0.0.1",
+	"license": "MIT",
+	"bin": {
+		"create-typescript-app": "index.js"
+	},
+	"author": {
+		"name": "Vincent Muriuki",
+		"email": "vincentmuriuki42@gmail.com",
+		"url": "http://powervel.com"
+	},
+	"keywords": [
+		"create-typescript-app",
+		"Vincent Muriuki"
+	],
+	"files": [
+		"index.js",
+		"utils"
+	],
+	"scripts": {
+		"format": "prettier --write \"./**/*.{js,json}\""
+	},
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"cli-alerts": "^1.2.2",
+		"cli-handle-error": "^4.4.0",
+		"cli-handle-unhandled": "^1.1.1",
+		"cli-meow-help": "^2.0.2",
+		"cli-welcome": "^2.2.2",
+		"figlet": "^1.5.2",
+		"meow": "^9.0.0",
+		"pkg-install": "^1.0.0",
+		"simple-git": "^3.4.0"
+	},
+	"devDependencies": {
+		"prettier": "^2.6.1"
+	}
+}
