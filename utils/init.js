@@ -8,7 +8,7 @@ module.exports = ({ clear = true }) => {
 	unhandled();
 	welcome({
 		title: chalk.yellow(
-			figlet.textSync(`create-typescript-app`, {
+			figlet.textSync(`@muriukivincent/create-ts-app`, {
 				// horizontalLayout: 'full'
 			})
 		),
