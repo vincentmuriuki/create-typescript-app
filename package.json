@@ -19,6 +19,9 @@
 		"index.js",
 		"utils"
 	],
+	"publishConfig": {
+		"access": "public"
+	},
 	"scripts": {
 		"format": "prettier --write \"./**/*.{js,json}\"",
 		"prepare": "husky install"
